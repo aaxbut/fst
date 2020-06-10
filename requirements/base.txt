@@ -1,0 +1,4 @@
+peewee
+aiohttp
+pydantic
+pystemmer
